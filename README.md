@@ -31,7 +31,7 @@ Simulazione di un attacco fileless avanzato tramite PowerShell con tecniche di b
 - `scripts/payload0.ps1` - payload PowerShell generato
 - `scripts/risorsa.bat` - script di attivazione
 
-## 🎓 Conclusioni
+## Conclusioni
 
 Il progetto evidenzia come gli attacchi fileless rappresentino una minaccia significativa e come la sola protezione di rete non sia sufficiente. L'approccio stratificato (rete + endpoint) si conferma essenziale per una difesa efficace.
 
